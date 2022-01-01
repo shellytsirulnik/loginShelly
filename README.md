@@ -1,9 +1,9 @@
 # loginShelly
 Login Page:
-enter email and pasword.
+enter email and password.
 user is notified and doesnt proceed to authentication in case:
   email is invalid.
-  password is invalid(less than 6 chars, doesn't contain both digits and letters.
+  password is invalid(less than 6 chars, doesn't contain both digits and letters).
 autehntication is done using email and password.
 in case password is incorrect or user with this email doesnt exist- alert- authentication fails. 
 in case user exists and authentication is successfull, opens a profile page.
