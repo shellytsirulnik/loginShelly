@@ -6,7 +6,7 @@ user is notified and doesnt proceed to authentication in case:
   password is invalid(less than 6 chars, doesn't contain both digits and letters).
 autehntication is done using email and password.
 in case password is incorrect or user with this email doesnt exist- alert- authentication fails. 
-in case user exists and authentication is successfull, opens a profile page.
+in case user exists in db and authentication is successfull, profile page is opened.
 
 Profile page:
 consists of the user's details that are stored in DB.
